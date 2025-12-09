@@ -8,7 +8,7 @@ These repositories are already compatible with aarch64, but needed simple change
 
 - [scst](https://git.jmay.us/truenas/scst/-/commits/truenas-3.10.0-pre)
 - [truenas_spdk](https://git.jmay.us/truenas/truenas_spdk/-/commits/master)
-- [rclone](https://git.jmay.us/truenas/rclone/-/commits/master)
+- [rclone](https://git.jmay.us/truenas/rclone/-/commits/master) ([upstream PR](https://github.com/truenas/rclone/pull/13))
 
 ## Simple Build Changes
 
