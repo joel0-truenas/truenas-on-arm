@@ -6,9 +6,9 @@ As of 2025-07-09, this is the list of changes I've made on this fork that diverg
 
 These repositories are already compatible with aarch64, but needed simple changes to the Debian package.
 
-- [scst](https://git.jmay.us/truenas/scst/-/commits/truenas-3.10.0-pre)
+- [scst](https://git.jmay.us/truenas/scst/-/commits/truenas-3.10.0-pre) ([upstream PR](https://github.com/truenas/scst/pull/54))
 - [truenas_spdk](https://git.jmay.us/truenas/truenas_spdk/-/commits/master)
-- [rclone](https://git.jmay.us/truenas/rclone/-/commits/master) ([upstream PR](https://github.com/truenas/rclone/pull/13))
+- Merged: ~~[rclone](https://git.jmay.us/truenas/rclone/-/commits/master) ([upstream PR](https://github.com/truenas/rclone/pull/13))~~
 
 ## Simple Build Changes
 
